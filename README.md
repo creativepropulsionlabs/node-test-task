@@ -26,4 +26,4 @@ Implement a RESTful API using Node.js with the following requirements:
 
 ## Deliverables
 
-- Share the code for the RESTful API implementation via a GitHub repository or a archived file.
+- Share the code for the RESTful API implementation via a GitHub repository or an archived file.
